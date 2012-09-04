@@ -1,0 +1,14 @@
+[
+    {
+        "command": "php_documentation_search_selection",
+        "caption": "PHP.net: Documentation Search"
+    },
+    {
+        "command": "php_documentation_open_selection",
+        "caption": "PHP.net: Function Reference"
+    },
+    {
+        "caption": "PHP.net: Search from Input",
+        "command": "php_documentation_search_from_input"
+    }
+]
