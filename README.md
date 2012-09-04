@@ -6,7 +6,7 @@ This is a [Sublime Text 2](http://www.sublimetext.com/2) plugin allowing you to 
 The plugin code is based on the [ Search WordPress Codex](https://github.com/welovewordpress/SublimeWordPressCodex) script by welovewordpress.
 
 ## Usage
-ctrl + shift + P and type `PHP.net`, or right click on any function and select 'PHP.net Function Reference'.
+Ctrl/Cmd + Shift + P and type `PHP.net`, or right click on any function and select 'PHP.net Function Reference'.
 
 ## Install
 
