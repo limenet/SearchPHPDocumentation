@@ -14,10 +14,10 @@ ctrl + shift + P and type `PHP.net`, or right click on any function and select '
 
 The easiest way to install this is with [Package Control](http://wbond.net/sublime\_packages/package\_control).
 
-As an alternative you can use
+As an alternative you can clone it via git
 
 ```
-$ https://github.com/limenet/SearchPHPDocumentation
+$ git clone https://github.com/limenet/SearchPHPDocumentation
 ```
 
 If you have some problems or improvements with it, contact me via GitHub.
